@@ -2,3 +2,12 @@ h1 {background-color: aqua;}
 h2 {background-color: aqua;}
 h3 {background-color: aqua;}
 h4 {background-color: aqua;}
+
+
+
+
+.home li {
+    display: inline-block;
+    list-style: none;
+    color: brown;
+}
