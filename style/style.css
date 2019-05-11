@@ -23,7 +23,7 @@ text-align: center;
 
 a {
 text-decoration: none;
-color: azure;
+color: black;
 
 }
 
@@ -36,4 +36,6 @@ cursor: pointer;
 
 body {
 background-color: azure;
+width: 80%;
+margin: auto;
 }
