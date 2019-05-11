@@ -1,13 +1,39 @@
 h1, h2, h3, h4{
-    background-color: aqua;
+    background-color:rgb(10, 220, 228);
 }
 
-.home{
+.menu {
 text-align: center;
 
+
 }
 
-.home li {
+.home {
     display: inline-block;
     list-style: none;
+    border: 2px;
+    background-color: rgb(10, 220, 228);
+    padding: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 18px;
+   
+    
+}
+
+a {
+text-decoration: none;
+color: azure;
+
+}
+
+.home:hover {
+background-color: brown;
+cursor: pointer;
+
+
+}
+
+body {
+background-color: azure;
 }
