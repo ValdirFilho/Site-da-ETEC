@@ -1,7 +1,7 @@
-h1 {background-color: aqua;}
-h2 {background-color: aqua;}
-h3 {background-color: aqua;}
-h4 {background-color: aqua;}
+h1 {background-color: red;}
+h2 {background-color: red;}
+h3 {background-color: red;}
+h4 {background-color: red;}
 
 
 
@@ -10,4 +10,9 @@ h4 {background-color: aqua;}
     display: inline-block;
     list-style: none;
     color: brown;
+}
+.container {
+    margin-left: 80px;
+    margin-right: 80px;
+
 }
