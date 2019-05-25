@@ -35,16 +35,16 @@ h1, h2, h3, h4{
     font-size: 18px;    
 }
 
-a {
+.a {
     text-decoration: none;
     color: black;
 }
 
 .home:hover {
-background-color: #053747
-;
+background-color: #053747;
 cursor: pointer;
-
+background-image: linear-gradient(#09607e, #18b1e4, #87c6db);
+     
 
 }
 
@@ -55,6 +55,7 @@ margin: auto;
 
 }
 
-.submenu {
+.submenu { 
+
 
 }
